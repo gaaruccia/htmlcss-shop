@@ -1,8 +1,19 @@
 .blocco{
-  background-color: #cbd0d6;
-  width: 25%;
+  width: 17%;
   height: 200px;
   display: inline-block;
   position: relative;
   margin-top: 10px;
+}
+.scontoalto{
+  position: absolute;
+  top: -15px;
+  right: 0;
+  background-color: green;
+}
+.scontobasso{
+  position: absolute;
+  top: -15px;
+  right: 0;
+  background-color: red;
 }
