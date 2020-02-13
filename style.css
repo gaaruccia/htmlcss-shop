@@ -1,0 +1,8 @@
+.blocco{
+  background-color: #cbd0d6;
+  width: 25%;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  margin-top: 10px;
+}
