@@ -22,6 +22,7 @@ body{
 .cuore{
   display: none;
   color: red;
+  font-size: 15px;
   position: absolute;
   bottom: 0;
   right: 50%;
