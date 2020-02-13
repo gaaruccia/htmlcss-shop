@@ -1,6 +1,8 @@
+body{
+  text-align: center;
+}
 .blocco{
-  width: 17%;
-  height: 200px;
+  width: auto;
   display: inline-block;
   position: relative;
   margin-top: 10px;
@@ -16,4 +18,14 @@
   top: -15px;
   right: 0;
   background-color: red;
+}
+.cuore{
+  display: none;
+  color: red;
+  position: absolute;
+  bottom: 0;
+  right: 50%;
+}
+a:hover + .cuore{
+  display: block;
 }
